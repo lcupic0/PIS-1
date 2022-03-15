@@ -9,4 +9,5 @@ int main() {
 	printf("Nova izmjena!");
 
 	return 0;
+	//komentar jbarbir18
 }
